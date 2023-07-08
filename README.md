@@ -2,7 +2,7 @@
 - 👀 I’m interested in NodeJS
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me:
-              >Discord: chamelongg#6969
+              >Discord: chamelongg
               >Reddit: u/ChamelonGG_
 
 <!--- 
